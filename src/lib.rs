@@ -57,7 +57,6 @@ impl Operations {
                     unwrapped_stack
                         .get(unwrapped_stack.len() - 1)
                         .unwrap()
-                        .to::<u64>()
                         .to_string(),
                 );
                 params.insert(
@@ -65,7 +64,6 @@ impl Operations {
                     unwrapped_stack
                         .get(unwrapped_stack.len() - 2)
                         .unwrap()
-                        .to::<u64>()
                         .to_string(),
                 );
                 params.insert(
@@ -73,7 +71,6 @@ impl Operations {
                     unwrapped_stack
                         .get(unwrapped_stack.len() - 3)
                         .unwrap()
-                        .to::<u64>()
                         .to_string(),
                 );
             }
@@ -83,7 +80,6 @@ impl Operations {
                     unwrapped_stack
                         .get(unwrapped_stack.len() - 1)
                         .unwrap()
-                        .to::<u64>()
                         .to_string(),
                 );
                 params.insert(
@@ -91,7 +87,6 @@ impl Operations {
                     unwrapped_stack
                         .get(unwrapped_stack.len() - 2)
                         .unwrap()
-                        .to::<u64>()
                         .to_string(),
                 );
             }
@@ -102,7 +97,6 @@ impl Operations {
                     unwrapped_stack
                         .get(unwrapped_stack.len() - 2)
                         .unwrap()
-                        .to::<u64>()
                         .to_string(),
                 );
                 params.insert(
@@ -110,7 +104,6 @@ impl Operations {
                     unwrapped_stack
                         .get(unwrapped_stack.len() - 3)
                         .unwrap()
-                        .to::<u64>()
                         .to_string(),
                 );
                 params.insert(
@@ -118,7 +111,6 @@ impl Operations {
                     unwrapped_stack
                         .get(unwrapped_stack.len() - 4)
                         .unwrap()
-                        .to::<u64>()
                         .to_string(),
                 );
             }
@@ -128,7 +120,6 @@ impl Operations {
                     unwrapped_stack
                         .get(unwrapped_stack.len() - 1)
                         .unwrap()
-                        .to::<u64>()
                         .to_string(),
                 );
                 params.insert(
@@ -136,7 +127,6 @@ impl Operations {
                     unwrapped_stack
                         .get(unwrapped_stack.len() - 2)
                         .unwrap()
-                        .to::<u64>()
                         .to_string(),
                 );
                 params.insert(
@@ -144,7 +134,6 @@ impl Operations {
                     unwrapped_stack
                         .get(unwrapped_stack.len() - 3)
                         .unwrap()
-                        .to::<u64>()
                         .to_string(),
                 );
             }
@@ -154,7 +143,6 @@ impl Operations {
                     unwrapped_stack
                         .get(unwrapped_stack.len() - 1)
                         .unwrap()
-                        .to::<u64>()
                         .to_string(),
                 );
                 params.insert(
@@ -162,7 +150,6 @@ impl Operations {
                     unwrapped_stack
                         .get(unwrapped_stack.len() - 2)
                         .unwrap()
-                        .to::<u64>()
                         .to_string(),
                 );
                 params.insert(
@@ -170,7 +157,6 @@ impl Operations {
                     unwrapped_stack
                         .get(unwrapped_stack.len() - 3)
                         .unwrap()
-                        .to::<u64>()
                         .to_string(),
                 );
             }
@@ -180,7 +166,6 @@ impl Operations {
                     unwrapped_stack
                         .get(unwrapped_stack.len() - 1)
                         .unwrap()
-                        .to::<u64>()
                         .to_string(),
                 );
 
@@ -189,7 +174,6 @@ impl Operations {
                     unwrapped_stack
                         .get(unwrapped_stack.len() - 2)
                         .unwrap()
-                        .to::<u64>()
                         .to_string(),
                 );
             }
@@ -199,7 +183,6 @@ impl Operations {
                     unwrapped_stack
                         .get(unwrapped_stack.len() - 1)
                         .unwrap()
-                        .to::<u64>()
                         .to_string(),
                 );
             }
@@ -209,7 +192,6 @@ impl Operations {
                     unwrapped_stack
                         .get(unwrapped_stack.len() - 1)
                         .unwrap()
-                        .to::<u64>()
                         .to_string(),
                 );
                 params.insert(
@@ -217,7 +199,6 @@ impl Operations {
                     unwrapped_stack
                         .get(unwrapped_stack.len() - 2)
                         .unwrap()
-                        .to::<u64>()
                         .to_string(),
                 );
                 params.insert(
@@ -225,7 +206,6 @@ impl Operations {
                     unwrapped_stack
                         .get(unwrapped_stack.len() - 3)
                         .unwrap()
-                        .to::<u64>()
                         .to_string(),
                 );
             }
